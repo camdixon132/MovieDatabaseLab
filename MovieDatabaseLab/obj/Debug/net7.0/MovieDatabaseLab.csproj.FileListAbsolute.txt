@@ -1,0 +1,15 @@
+/Users/camerondixon/Projects/MovieDatabaseLab/MovieDatabaseLab/obj/Debug/net7.0/MovieDatabaseLab.csproj.AssemblyReference.cache
+/Users/camerondixon/Projects/MovieDatabaseLab/MovieDatabaseLab/obj/Debug/net7.0/MovieDatabaseLab.GeneratedMSBuildEditorConfig.editorconfig
+/Users/camerondixon/Projects/MovieDatabaseLab/MovieDatabaseLab/obj/Debug/net7.0/MovieDatabaseLab.AssemblyInfoInputs.cache
+/Users/camerondixon/Projects/MovieDatabaseLab/MovieDatabaseLab/obj/Debug/net7.0/MovieDatabaseLab.AssemblyInfo.cs
+/Users/camerondixon/Projects/MovieDatabaseLab/MovieDatabaseLab/obj/Debug/net7.0/MovieDatabaseLab.csproj.CoreCompileInputs.cache
+/Users/camerondixon/Projects/MovieDatabaseLab/MovieDatabaseLab/bin/Debug/net7.0/MovieDatabaseLab
+/Users/camerondixon/Projects/MovieDatabaseLab/MovieDatabaseLab/bin/Debug/net7.0/MovieDatabaseLab.deps.json
+/Users/camerondixon/Projects/MovieDatabaseLab/MovieDatabaseLab/bin/Debug/net7.0/MovieDatabaseLab.runtimeconfig.json
+/Users/camerondixon/Projects/MovieDatabaseLab/MovieDatabaseLab/bin/Debug/net7.0/MovieDatabaseLab.dll
+/Users/camerondixon/Projects/MovieDatabaseLab/MovieDatabaseLab/bin/Debug/net7.0/MovieDatabaseLab.pdb
+/Users/camerondixon/Projects/MovieDatabaseLab/MovieDatabaseLab/obj/Debug/net7.0/MovieDatabaseLab.dll
+/Users/camerondixon/Projects/MovieDatabaseLab/MovieDatabaseLab/obj/Debug/net7.0/refint/MovieDatabaseLab.dll
+/Users/camerondixon/Projects/MovieDatabaseLab/MovieDatabaseLab/obj/Debug/net7.0/MovieDatabaseLab.pdb
+/Users/camerondixon/Projects/MovieDatabaseLab/MovieDatabaseLab/obj/Debug/net7.0/MovieDatabaseLab.genruntimeconfig.cache
+/Users/camerondixon/Projects/MovieDatabaseLab/MovieDatabaseLab/obj/Debug/net7.0/ref/MovieDatabaseLab.dll
